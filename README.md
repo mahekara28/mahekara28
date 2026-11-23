@@ -1,4 +1,4 @@
-# Mahek Ara Bangi
+# Mahek Ara
 
 I build AI tools and the operations around them: reliable data, clear handoffs, and decisions that can be checked. I’m an AI engineering graduate working in program and people operations at Sambhav Foundation.
 
