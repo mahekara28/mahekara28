@@ -2,8 +2,6 @@
 
 I build AI tools and the operations around them: reliable data, clear handoffs, and decisions that can be checked. I’m an AI engineering graduate working in program and people operations at Sambhav Foundation.
 
-At Sambhav, I improved recurring reporting workflows, reducing reporting effort by 25% while maintaining 98%+ accuracy. I’m interested in the point where technical research becomes an operating decision.
-
 ## Current work
 
 - **[Context Relay](https://github.com/mahekara28/context-relay)** — a local CLI, workbench, and MCP handoff for carrying reviewed task context between coding agents. [See the project](https://mahekara28.github.io/context-relay/).
@@ -17,4 +15,4 @@ At Sambhav, I improved recurring reporting workflows, reducing reporting effort 
 - [An Agent Is Becoming a Cloud Workload](https://mahekara.vercel.app/blog/agent-cloud-workload)
 - [Context Relay: carrying a coding task across agents](https://mahekara.vercel.app/blog/context-relay)
 
-[Portfolio](https://mahekara.vercel.app/) · [Resume](https://mahekara.vercel.app/resume/mahek-ara-bangi.pdf) · [LinkedIn](https://www.linkedin.com/in/mahek-ara/)
+[Portfolio](https://mahekara.vercel.app/)  · [LinkedIn](https://www.linkedin.com/in/mahek-ara/)
